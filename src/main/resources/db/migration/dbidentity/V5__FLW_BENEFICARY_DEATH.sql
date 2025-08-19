@@ -9,3 +9,4 @@ ADD COLUMN `reason_of_death_id` INT(11) DEFAULT 0,
 ADD COLUMN `place_of_death` VARCHAR(200) DEFAULT NULL,
 ADD COLUMN `place_of_death_id` INT(11) DEFAULT 0,
 ADD COLUMN `other_place_of_death` VARCHAR(200) DEFAULT NULL;
+
